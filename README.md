@@ -1,7 +1,8 @@
 # Cat Timeline Card - Base Template
 
 **⚠️ This is a BASE TEMPLATE that requires customization. It will NOT work as-is. ⚠️**
-**If anyone is interested in making this into a workable homeassistant card where all customisation is done via YAML you are most welcome to!**
+
+**If anyone is interested in making this into a workable homeassistant card where all customisation is done via YAML/UI not JS you are most welcome to!**
 
 This is a starting point for your own cat timeline card project. You are responsible for editing the JavaScript file to match your Home Assistant setup. This is not a ready-to-use card - it's a customizable base that you need to adapt to your entities, messages, and icons.
 
